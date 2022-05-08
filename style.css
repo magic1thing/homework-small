@@ -1,0 +1,21 @@
+body
+  {background: linear-gradient(45deg,rgb(71, 71, 175),rgb(205, 88, 88))fixed;
+  color:#e2e2e2;
+  font:12px Verdana, sans-serif;}
+h1
+  {font-size:2.2em;
+  color:green;
+  letter-spacing:5px;
+  text-align:center;}
+h2
+  {font-size:2.2em;
+  color:#FFCC00;
+  text-decoration:underline;
+  text-align:center;}
+p::first-letter
+  {color: #0000CD;}
+p#su
+  {text-indent:2.2em;
+  word-spacing:10px;
+  font-style:italic;}
+/* !!COMMENT!!   Я поменял фон и цвет заглавных букв в тексте. Работа выполнена Цюсьмаком Николаем */
